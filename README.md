@@ -1,7 +1,7 @@
 # Login-register-pages
 
 
-## [site demo](https://khalilhasan23.github.io/Foton-landing-page/)
+
 
 
 ## project screenshot
